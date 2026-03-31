@@ -1,5 +1,4 @@
 Bit Mask usage for engage efficient use of big conditionals
-[← Python documentation](/README-python.md)
 
 ## Example of use
 
@@ -61,7 +60,7 @@ constructor() {
 }
 ```
 
-### Funções
+### Functions
 
 ```jsx
 initCities() {
@@ -103,7 +102,7 @@ findCitiesByGmt(gmt) {
 }
 ```
 
-## Função para renderizar a resposta
+### Function to render the WEB answer
 
 ```jsx
 function searchCities() {
@@ -116,4 +115,9 @@ function searchCities() {
 }
 ```
 
-`const finder = new BitMaskCityFinder();` Para fazer com que a instância funcione
+### Initialize the instance
+
+`const finder = new BitMaskCityFinder();`
+
+## Same logic applied in python
+[See python usage](/README-python.md)
