@@ -1,4 +1,5 @@
 Bit Mask usage for engage efficient use of big conditionals
+[← Python documentation](/README-python.md)
 
 ## Example of use
 
