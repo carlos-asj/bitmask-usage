@@ -1,4 +1,4 @@
-# Using the logic to convert binaries number into characters
+# Using the logic to convert binaries numbers into characters
 
 ### Main class
 
